@@ -9,5 +9,8 @@
         <module name="java-monster-race" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-monster-race" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
